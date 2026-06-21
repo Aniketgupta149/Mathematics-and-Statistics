@@ -123,9 +123,9 @@ Mathematics-and-Statistics/
 
 ### Mathematics
 
-* [ ] Day 01 – Basic Algebra
-* [ ] Day 02 – Functions and Graphs
-* [ ] Day 03 – Calculus Basics
+* [x] Day 01 – Basic Algebra
+* [x] Day 02 – Functions and Graphs
+* [x] Day 03 – Calculus Basics
 * [ ] Day 04 – Linear Algebra
 * [ ] Day 05 – Matrix Operations
 * [ ] Day 06 – Eigenvalues & Eigenvectors
