@@ -100,6 +100,8 @@ By completing this repository, I will be able to:
 ```text
 Mathematics-and-Statistics/
 │
+|── README.md
+|
 ├── Day-01-Basic-Algebra/
 ├── Day-02-Functions-and-Graphs/
 ├── Day-03-Calculus-Basics/
